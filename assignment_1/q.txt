@@ -1,0 +1,1 @@
+1: when plt.scatter why use column 0 and 1 not 2?
